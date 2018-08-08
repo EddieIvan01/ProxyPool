@@ -1,6 +1,6 @@
 # ProxyPool
 
-**Demo**
+**Server端Demo**
 
 ![](https://github.com/EddieIvan01/ProxyPool/blob/master/demo.png)
 
