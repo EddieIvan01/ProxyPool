@@ -6,7 +6,7 @@ if r.json()["code"] == 200:
     ip = r.json()["proxies"][0]["ip"]
     port = r.json()["proxies"][0]["port"]
 
-url = "http://nemesisly.xyz"
+url = "http://ip.chinaz.com/getip.aspx"
 proxy = {
     "http":"http://" + ip + ":" + port
 }
