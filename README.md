@@ -2,7 +2,7 @@
 
 **Demo**
 
-![](https://upload-images.jianshu.io/upload_images/11356161-fd30cb2c50e026bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/EddieIvan01/ProxyPool/blob/master/demo.png)
 
 ***
 
