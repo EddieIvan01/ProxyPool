@@ -24,9 +24,9 @@
   + 202：请求参数错误
 + 数据形式：
 
-anonymous: 是否高匿
+  anonymous: 是否高匿
 
-ssl：是否https
+  ssl：是否https
 
 ```
 data{
@@ -62,8 +62,8 @@ data{
 
 开启监听，提供API:
 
-+ /proxy?get: 查询数据库，并返回数据库中全部代理
-+ /proxy?reflush: 检查数据库已存在代理的可用性；请求代理网站获取IP，将可用IP插入数据库
++ /proxy?act=get: 查询数据库，并返回数据库中全部代理
++ /proxy?act=reflush: 检查数据库已存在代理的可用性；请求代理网站获取IP，将可用IP插入数据库
 
 ------
 
